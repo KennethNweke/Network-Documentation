@@ -1,9 +1,6 @@
-# Network-Documentation
-Resources for the Network Documentation series on Youtube
-
 ![image](https://github.com/user-attachments/assets/28d64bbc-6577-44f5-a16b-acb8478ab120)
 
-# 🛠 Cisco Config Backup & Restore via TFTP
+# 🛠 Network-Documentation
 
 This cheat sheet is a companion to my LinkedIn video on backing up Cisco device configurations using a TFTP server. It’s designed to help network engineers and students quickly recall the commands and setup steps needed to:
 
